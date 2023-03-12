@@ -28,13 +28,14 @@ This web application is used to generate a password with the criterias that are 
 - A user select the length of the desired password 
 - A user and select the options of adding uppercase, lowercase, numbers and/or special characters 
 - User will be given a password that matches the criteria \
-![](images/screenshot-1)
-![](images/screenshot-2)
-![](images/screenshot-3)
-![](images/screenshot-4)
-![](images/screenshot-5)
-![](images/screenshot-6)
-![](images/screenshot-7)
+![](./screenshots/Screenshot-1.png)
+![](./screenshots/Screenshot-2.png)
+![](./screenshots/Screenshot-3.png)
+![](./screenshots/Screenshot-4.png)
+![](./screenshots/Screenshot-5.png)
+![](./screenshots/Screenshot-6.png)
+![](./screenshots/Screenshot-7.png)
+
 
 ## License
 
