@@ -49,4 +49,4 @@ This project is licensed under the MIT License.
 
 
 Damian Smith - damiansmith61@gmail.com \
-Project Link: https://github.com/username/repo-name
+Project Link: https://github.com/kenneilsmith/password_generator_mod_3
